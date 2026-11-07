@@ -33,6 +33,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Fetch total contributions and generate badge
+      - name: Generate total contributions badge
+        run: |
+          QUERY='query { user(login: "jhanavishukla") { contributionsCollection { contributionCalendar { totalContributions } } } }'
+          TOTAL=$(gh api graphql -f query="$QUERY" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          echo "Total contributions: $TOTAL"
+          curl -s "https://img.shields.io/badge/Total%20Contributions-${TOTAL}-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f19" -o dist/contributions.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # Deploys generated SVGs to the 'output' branch
       - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
