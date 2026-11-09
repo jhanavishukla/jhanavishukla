@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="28" viewBox="0 0 224 28" role="img" aria-label="PROJECTS: VIEW REPOSITORIES">
+  <title>PROJECTS: VIEW REPOSITORIES</title>
+  <clipPath id="r"><rect width="224" height="28" rx="4"/></clipPath>
+  <g clip-path="url(#r)" shape-rendering="crispEdges">
+    <rect width="84" height="28" fill="#0b0f19"/>
+    <rect x="84" width="140" height="28" fill="#7928CA"/>
+  </g>
+  <g text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Verdana,'Segoe UI',sans-serif" font-size="10" letter-spacing="0.8">
+    <text x="42" y="17.5" fill="#e2e8f0" font-weight="600">PROJECTS</text>
+    <text x="154" y="17.5" fill="#ffffff" font-weight="700">EXPLORE REPOSITORIES</text>
+  </g>
+</svg>

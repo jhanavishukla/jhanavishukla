@@ -1,28 +1,31 @@
 <div align="center">
 
   <!-- Futuristic Cyber Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0b0f19,30:1e1b4b,60:3b0764,100:083344&height=200&section=header&text=Jhanavi%20Shukla&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Second-Year%20B.Tech%20CSE%20%7C%20Ramdeobaba%20University%2C%20Nagpur&descSize=16&descAlignY=64&descColor=00F0FF" width="100%" alt="Jhanavi Shukla Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0b0f19,30:1e1b4b,60:3b0764,100:083344&height=200&section=header&text=Jhanavi%20Shukla&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Second-Year%20B.Tech%20CSE%20%7C%20Ramdeobaba%20University%2C%20Nagpur&descSize=16&descAlignY=64&descColor=00E5FF" width="100%" alt="Jhanavi Shukla Header" />
 
   <br>
 
-  <!-- Dynamic Typing Subtitle (Midnight Cyan Glow) -->
+  <!-- Dynamic Typing Subtitle (Crisp Cyan Glow) -->
   <a href="https://github.com/jhanavishukla">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00F0FF&background=0B0F1900&center=true&vCenter=true&width=650&lines=Second-Year+B.Tech+CSE+Student;AWS+Student+Builder+Group+Member;Smart+India+Hackathon+Internal+Qualifier;Interested+in+AI%2FML+%26+Backend+Engineering" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00E5FF&background=0B0F1900&center=true&vCenter=true&width=650&lines=Second-Year+B.Tech+CSE+Student;AWS+Student+Builder+Group+Member;Smart+India+Hackathon+Internal+Qualifier;Interested+in+AI%2FML+%26+Backend+Engineering" alt="Typing Animation" />
   </a>
 
   <br><br>
 
   <!-- Verified Identity Badges -->
   <a href="https://github.com/jhanavishukla">
-    <img src="https://img.shields.io/badge/Student-2nd%20Year%20B.Tech%20CSE-7928CA?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Academic Year" />
+    <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/student.svg" height="28" alt="Academic Year" />
   </a>
+  &nbsp;
   <a href="https://www.rbunagpur.in/">
-    <img src="https://img.shields.io/badge/University-Ramdeobaba%20University-00F0FF?style=for-the-badge&logoColor=black&labelColor=0b0f19" alt="Ramdeobaba University" />
+    <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/university.svg" height="28" alt="Ramdeobaba University" />
   </a>
+  &nbsp;
   <a href="https://github.com/jhanavishukla">
-    <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20AI%2FML-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0b0f19" alt="Focus Areas" />
+    <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/focus.svg" height="28" alt="Focus Areas" />
   </a>
-  <img src="https://img.shields.io/badge/AWS-Student%20Builder%20Group-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0b0f19" alt="AWS Student Builder Group" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/aws.svg" height="28" alt="AWS Student Builder Group" />
 
 </div>
 
@@ -122,11 +125,11 @@ developer:
 <br>
 
 <a href="https://github.com/jhanavishukla">
-  <img src="https://img.shields.io/badge/GitHub-jhanavishukla-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0b0f19" alt="GitHub Profile" />
+  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/github.svg" height="28" alt="GitHub Profile" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/jhanavishukla?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7928CA?style=for-the-badge&logo=git&logoColor=white&labelColor=0b0f19" alt="Repositories" />
+  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/repositories.svg" height="28" alt="Repositories" />
 </a>
 
 </div>
@@ -153,7 +156,7 @@ developer:
 
 <div align="center">
 
-  <p><i>"Engineering resilient backend systems and exploring intelligence through code."</i></p>
+  <p><i>"Trying to build resilient backend systems while exploring AI/ML through code."</i></p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:083344,40:3b0764,70:1e1b4b,100:0b0f19&height=100&section=footer" width="100%" alt="Footer Wave" />
 

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="28" viewBox="0 0 232 28" role="img" aria-label="FOCUS: BACKEND • AI/ML">
+  <title>FOCUS: BACKEND • AI/ML</title>
+  <clipPath id="r"><rect width="232" height="28" rx="4"/></clipPath>
+  <g clip-path="url(#r)" shape-rendering="crispEdges">
+    <rect width="68" height="28" fill="#0b0f19"/>
+    <rect x="68" width="164" height="28" fill="#8A2BE2"/>
+  </g>
+  <g text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Verdana,'Segoe UI',sans-serif" font-size="10" letter-spacing="0.8">
+    <text x="34" y="17.5" fill="#e2e8f0" font-weight="600">FOCUS</text>
+    <text x="150" y="17.5" fill="#ffffff" font-weight="700">BACKEND • AI/ML</text>
+  </g>
+</svg>
