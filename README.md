@@ -118,18 +118,45 @@ developer:
 
 <div align="center">
 
-| Platform | Profile / Link | Status |
-| :--- | :--- | :---: |
-| **GitHub** | [@jhanavishukla](https://github.com/jhanavishukla) | `Active` |
+<table width="85%">
+  <thead>
+    <tr>
+      <th width="30%" align="center">Platform</th>
+      <th width="45%" align="center">Profile / Link</th>
+      <th width="25%" align="center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jhanavishukla">
+          <strong>GitHub</strong>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jhanavishukla">
+          <code>@jhanavishukla</code>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Active-00E5FF?style=flat-square&labelColor=0b0f19" alt="Active Status" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
 <a href="https://github.com/jhanavishukla">
-  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/github.svg" height="28" alt="GitHub Profile" />
+  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/badge-github.svg" height="32" alt="GitHub Profile" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a href="#featured-projects">
+  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/badge-projects.svg" height="32" alt="Featured Projects" />
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/jhanavishukla?tab=repositories">
-  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/repositories.svg" height="28" alt="Repositories" />
+  <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/badge-repositories.svg" height="32" alt="Explore Repositories" />
 </a>
 
 </div>
