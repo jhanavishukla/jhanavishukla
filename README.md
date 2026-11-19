@@ -139,7 +139,7 @@ developer:
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Active-00E5FF?style=flat-square&labelColor=0b0f19" alt="Active Status" />
+        <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/status-active.svg" height="26" alt="Active Status" />
       </td>
     </tr>
   </tbody>
