@@ -1,9 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="92" height="26" viewBox="0 0 92 26" role="img" aria-label="Status: Active">
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="24" viewBox="0 0 76 24" role="img" aria-label="Status: Active">
   <title>Status: Active</title>
-  <!-- Background status pill with subtle dark teal/cyan background & border -->
-  <rect width="92" height="26" rx="5" fill="#082b35" stroke="#00E5FF" stroke-width="1.2" stroke-opacity="0.6"/>
-  <!-- Glowing pulse indicator dot -->
-  <circle cx="16" cy="13" r="3.5" fill="#00E5FF"/>
-  <!-- Status text: 12.5px semibold, bright readable cyan -->
-  <text x="26" y="17" fill="#00E5FF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.4">Active</text>
+  <defs>
+    <!-- Subtle glow filter for the green dot -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2.2" flood-color="#22C55E" flood-opacity="0.75"/>
+    </filter>
+  </defs>
+  <!-- 7px diameter circular green dot (#22C55E) with subtle glow (radius 3.5, centered at y=12) -->
+  <circle cx="8.5" cy="12" r="3.5" fill="#22C55E" filter="url(#glow)"/>
+  <!-- 7px gap: dot right edge is at 12px, text starts at x=19px -->
+  <!-- 12px font, font-weight 600, soft mint-green (#86EFAC) -->
+  <text x="19" y="16" fill="#86EFAC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="600" letter-spacing="0.3">Active</text>
 </svg>

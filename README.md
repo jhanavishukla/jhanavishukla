@@ -121,13 +121,13 @@ developer:
 <table width="85%">
   <thead>
     <tr>
-      <th width="30%" align="center">Platform</th>
-      <th width="45%" align="center">Profile / Link</th>
-      <th width="25%" align="center">Status</th>
+      <th width="28%" align="center">Platform</th>
+      <th width="42%" align="center">Profile / Link</th>
+      <th width="30%" align="center">Status</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr height="44">
       <td align="center">
         <a href="https://github.com/jhanavishukla">
           <strong>GitHub</strong>
@@ -139,7 +139,7 @@ developer:
         </a>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/status-active.svg" height="26" alt="Active Status" />
+        <img src="https://raw.githubusercontent.com/jhanavishukla/jhanavishukla/main/assets/badges/status-active.svg" height="24" alt="Active" />
       </td>
     </tr>
   </tbody>
