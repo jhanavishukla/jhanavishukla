@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Futuristic Cyber Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0b0f19,30:1e1b4b,60:3b0764,100:083344&height=200&section=header&text=Jhanavi%20Shukla&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Second-Year%20B.Tech%20CSE%20%7C%20Ramdeobaba%20University%2C%20Nagpur&descSize=16&descAlignY=64&descColor=00E5FF" width="100%" alt="Jhanavi Shukla Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17152F,50:30205B,100:493078&height=200&section=header&text=Jhanavi%20Shukla&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Second-Year%20B.Tech%20CSE%20%7C%20Ramdeobaba%20University%2C%20Nagpur&descSize=16&descAlignY=64&descColor=A78BFA" width="100%" alt="Jhanavi Shukla Header" />
 
   <br>
 
